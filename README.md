@@ -1,0 +1,1 @@
+Word Echo Definition is a simple voice-assisted dictionary application built using Python and the Tkinter library for GUI development. It allows users to input a word and get the definition both on-screen and through voice using a text-to-speech system. The app utilizes nltk's WordNet corpus to retrieve word definitions and pyttsx3 for text-to-speech functionality.
